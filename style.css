@@ -26,18 +26,18 @@ main {
 }
 
 /*-----Seccion 1-----*/
-#section1 {
+.section1 {
   height: 724px;
 }
-#logo-container{
+.logo-container{
   width: 180px;
 }
-#mockup {
+.mockup {
   width: 595px;
 }
 
 /*-----Seccion 2-----*/
-#section2 {
+.section2 {
   height: 724px;
 }
 h1 {
@@ -46,7 +46,7 @@ h1 {
   text-align: center;
   height: 170px;
 }
-#section2 p {
+.section2 p {
   font-size: 31px;
   text-align: center;
   height: 280px;
@@ -118,18 +118,18 @@ h1 {
     grid-template-columns: 1fr 1fr;
   }
   /*-----Seccion 1-----*/
-  #section1 {
+  .section1 {
     width: 753px;
     height: 700px;
   }
-  #logo-container {
+  .logo-container {
     height: 134px;
   }
-  #mockup {
+  .mockup {
     width: 696px;
   }
   /*-----Seccion 2-----*/
-  #section2 {
+  .section2 {
     height: 700px;
   }
   h1 {
@@ -139,7 +139,7 @@ h1 {
     text-align: left;
     padding-right: 93px;
   }
-  #section2 p {
+  .section2 p {
     height: 98px;
     font-size: 18px;
     text-align: left;
